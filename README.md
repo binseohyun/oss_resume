@@ -29,7 +29,7 @@ GitHub: [GitHub 주소](https://github.com/binseohyun/bin-study.git)
  
 ## 3. 경력사항
  
-### 3.1 인턴 경험
+### 3-1. 인턴 경력
 
 #### 삼성 SDS – 데이터 분석 인턴 (2026.06 – 2026.08)
  
