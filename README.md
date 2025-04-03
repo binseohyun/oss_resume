@@ -110,8 +110,9 @@ GitHub: [GitHub 주소](https://github.com/binseohyun/bin-study.git)
 
 3. 프로그래밍 대회 우수상 (코드리뷰 플랫폼, 2026.09)
 
+### 추천인
 
-
+광운대학교 정보융합학부 박규동 교수
 
 
 
